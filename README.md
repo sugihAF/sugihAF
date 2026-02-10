@@ -24,7 +24,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![ZenML](https://img.shields.io/badge/ZenML-431D93?style=flat&logo=data:image/png;base64,&logoColor=white)
+![ZenML](https://img.shields.io/badge/ZenML-431D93?style=flat&logoColor=white)
 
 **Web Development**
 
@@ -61,8 +61,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugihAF&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugihAF&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugihAF&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sugihAF&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sugihAF&theme=github_dark" height="165" />
 </p>
 
 <p align="center">
